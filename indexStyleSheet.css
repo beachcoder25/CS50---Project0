@@ -32,3 +32,10 @@
   padding: 1px;
   border: 20px solid orange;
 }
+
+@media (max-width: 768px){
+  /* For mobile */
+  body {
+    background-color: black;
+  }
+}
