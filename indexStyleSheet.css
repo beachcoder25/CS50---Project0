@@ -1,4 +1,34 @@
-img {
+.title-links {
+  text-align: center;
+}
+
+
+#headerText {
+  font-style: oblique;
+  color: blue;
+  font-weight: bold;
+}
+
+#photographyImage{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   padding: 1px;
-  border: 20px solid #000d33;
+  border: 20px solid lightblue;
+}
+
+#programmingImage{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1px;
+  border: 20px solid limegreen;
+}
+
+#aboutImage{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1px;
+  border: 20px solid orange;
 }
